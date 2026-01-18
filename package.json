@@ -1,0 +1,31 @@
+{
+  "name": "full_namaste_react",
+  "version": "1.0.0",
+  "description": "This is Aditya...",
+  "keywords": [
+    "react",
+    "Aditya",
+    "learn"
+  ],
+  "homepage": "https://github.com/adityakhilare04/full_namaste_react#readme",
+  "bugs": {
+    "url": "https://github.com/adityakhilare04/full_namaste_react/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adityakhilare04/full_namaste_react.git"
+  },
+  "license": "ISC",
+  "author": "Aditya",
+  "type": "commonjs",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.3"
+  },
+  "dependencies": {
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3"
+  }
+}
